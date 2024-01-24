@@ -144,6 +144,9 @@ show_pictures(cleaned_images)
 
 Generated images are displayed to show the original, noisy, and cleaned versions.
 
+# Important
+The branch containing fashion is the same manipulations but for different image dataset.
+
 ## Launching Project
 
 To run the project, you have a couple of options:
