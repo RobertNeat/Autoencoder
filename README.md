@@ -154,6 +154,7 @@ To run the project, you have a couple of options:
 ### Using Google Colab via Gist
 
 Access the project through Google Colab using the Gist website. You can import the necessary data from the GitHub project resources. Use the following Gist link: [gist link here](https://gist.github.com/RobertNeat/91b9911ee45190680f4c815164cdebc9)
+or the fashion notebook [fashion gist here](https://gist.github.com/RobertNeat/2cf96267081f14bc321af78445a0a18e)
 
 ### Running Locally
 
